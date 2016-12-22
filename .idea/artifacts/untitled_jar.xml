@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="untitled:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/untitled_jar</output-path>
+    <root id="archive" name="untitled.jar">
+      <element id="module-output" name="untitled" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../库/Json jar包/google-gson-2.2.1-release/gson-2.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/桌面/HTMLParser-2.0-SNAPSHOT/lib/filterbuilder.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/桌面/HTMLParser-2.0-SNAPSHOT/lib/htmllexer.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/桌面/HTMLParser-2.0-SNAPSHOT/lib/sitecapturer.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/桌面/HTMLParser-2.0-SNAPSHOT/lib/thumbelina.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/桌面/HTMLParser-2.0-SNAPSHOT/lib/htmlparser.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

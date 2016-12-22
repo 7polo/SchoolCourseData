@@ -1,0 +1,68 @@
+{
+	"config":[
+		{
+			"type":"login",
+			"url":"http://jwgl.ahnu.edu.cn/login/check.shtml",
+			"Referer":"",
+			"method":"POST"
+		},
+		{
+			"type":"grade",
+			"url":"http://jwgl.ahnu.edu.cn/query/cjquery/index",
+			"Referer":"http://jwgl.ahnu.edu.cn/query/cjquery",
+			"method":"GET"
+		},
+		{
+			"type":"course",
+			"url":"http://jwgl.ahnu.edu.cn/kcb/main",
+			"Referer":"http://jwgl.ahnu.edu.cn/kcb/main",
+			"method":"GET"
+		}
+	],
+
+	"loginParames":[
+		{
+			"key":"user",
+			"value":"14111205001"
+		},
+		{
+			"key":"pass",
+			"value":"340822199508124815"
+		},
+		{
+			"key":"usertype",
+			"value":"stu"
+		}
+	],
+
+	"gradeParames":[
+		{
+			"key":"action",
+			"value":"ok"
+		},
+		{
+			"key":"xkxn",
+			"value":"2015-2016"
+		},
+		{
+			"key":"xkxq",
+			"value":"1"
+		}
+	],
+
+	"courseParames":[
+		{
+			"key":"action",
+			"value":"ok"
+		},
+		{
+			"key":"xkxn",
+			"value":"2016-2017"
+		},
+		{
+			"key":"xkxq",
+			"value":"1"
+		}
+	]
+}
+

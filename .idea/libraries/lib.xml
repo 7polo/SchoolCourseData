@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/桌面/HTMLParser-2.0-SNAPSHOT/lib/filterbuilder.jar!/" />
+      <root url="jar://$USER_HOME$/桌面/HTMLParser-2.0-SNAPSHOT/lib/htmllexer.jar!/" />
+      <root url="jar://$USER_HOME$/桌面/HTMLParser-2.0-SNAPSHOT/lib/sitecapturer.jar!/" />
+      <root url="jar://$USER_HOME$/桌面/HTMLParser-2.0-SNAPSHOT/lib/thumbelina.jar!/" />
+      <root url="jar://$USER_HOME$/桌面/HTMLParser-2.0-SNAPSHOT/lib/htmlparser.jar!/" />
+      <root url="file://$USER_HOME$/桌面/HTMLParser-2.0-SNAPSHOT/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/桌面/HTMLParser-2.0-SNAPSHOT/lib" recursive="false" />
+  </library>
+</component>
